@@ -140,7 +140,6 @@ The following figure compares segmentation outputs from all four models.
 ### Metrics Comparison
 
 ![Metrics Comparison](results/metrics_table.png)
-
 ---
 
 ## Key Findings
