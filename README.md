@@ -1,8 +1,3 @@
-# Test
-
-![](results/prediction_comparison.png)
-
-![](results/metrics_table.png)
 # Flood Segmentation using U-Net, SAM, and DINOv3
 
 ## Overview
