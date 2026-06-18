@@ -133,7 +133,7 @@ The following metrics were used for model comparison:
 
 The following figure compares segmentation outputs from all four models.
 
-![Prediction Comparison](results/output.png)
+![Prediction Comparison](results/prediction_comparison.png)
 
 ---
 
